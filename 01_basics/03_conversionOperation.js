@@ -12,6 +12,23 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
 let sumNumber = 33
-let stringNumber = String(sumNumber)
-console.log(typeof stringNumber);
+// let stringNumber = String(sumNumber)
+// console.log(typeof stringNumber);
+
+// ************* operations **************
+
+let str1 = "hello"
+let str2 = " daksh"
+let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1" + 2);
+// console.log("1" + 2 + 5);
+// console.log(1 + 2 + "5");
+
+console.log(+true);
+
+
+
+
 
